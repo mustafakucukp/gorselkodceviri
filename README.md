@@ -27,9 +27,9 @@ Adımlar
 
 3- Proje dosyasını indirin.
 
-4- IDLE uygulamasını üzerinden dosyamızı açıyoruz ve kodumuzu çalıştırıyoruz.
+4- py uzantılı dosyamızı çalıştırıyoruz.
 
-5- Kodumuzu çalıştırdıktan sonra karşımıza Dosya Seç butonu çıkıyor ve dosyamızı seçiyoruz.
+5- Dosyamızı çalıştırdıktan sonra karşımıza Dosya Seç butonu çıkıyor ve dosyamızı seçiyoruz.
 
 
 
