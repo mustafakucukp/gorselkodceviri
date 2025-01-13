@@ -15,6 +15,8 @@ Gereksimler
 -Python
 -Open CV
 -Tesseract OCR
+-NumPy
+-Tkinter (GUI desteği için)
 
 Adımlar
 -
