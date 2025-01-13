@@ -20,5 +20,13 @@ Adımlar
 -
 
 1- Python uygulaması indirilmeli. https://www.python.org/ resmi sitesinden indirebilirsiniz.
+
 2- Tesseract OCR uygulamasını indiriyoruz ve kuruyoruz.
+
 3- Proje dosyasını indirin.
+
+4- IDLE uygulamasını üzerinden dosyamızı açıyoruz.
+
+5- Kodu çalıştırmadan önce Tesseract OCR uygulması bilgisayarımızda nereye yüklüyse kodumuzu ona göre düzenliyoruz.
+
+6- Kodu çalıştırmadan önce "RESİMYOLUNU" belirtmeyi unutmayın.
