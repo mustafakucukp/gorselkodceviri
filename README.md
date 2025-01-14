@@ -1,4 +1,4 @@
-Görsel Üzerindeki Kodu Okuma ve Yazma Programı
+Görsel Kod Çeviri ve Kontrol Programı
 -
 
 Bu proje, görsel üzerinde yer alan kodu metin haline getirmek ve metin haline gelen kodu python üzerinden çalıştırıp kodun doğruluğu kontrol etmektir. Görsel üzerinde yer alan kodların manuel yazım sürecini kısaltarak zamanadan tasarruf sağlıyoruz. Kodun sadece çalışıp çalışmadığını değil, aynı zamanda çıktısının da doğru olup olmadığını kontrol etmemizi sağlıyor.
@@ -23,13 +23,12 @@ Adımlar
 
 1- Python uygulaması indirilmeli. https://www.python.org/ resmi sitesinden indirebilirsiniz.
 
-2- Tesseract OCR uygulamasını indiriyoruz ve kuruyoruz.
+2- Gerekli  Python paketlerini yüklemek için terminal veya komut istemcisine aşağıdaki komututları yazın.
+pip install opencv-python
+pip install pytesseract
 
 3- Proje dosyasını indirin.
 
-4- py uzantılı dosyamızı çalıştırıyoruz.
-
-5- Dosyamızı çalıştırdıktan sonra karşımıza Dosya Seç butonu çıkıyor ve dosyamızı seçiyoruz.
 
 
 
