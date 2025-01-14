@@ -34,8 +34,11 @@ pip install pytesseract
 Kullanım
 -
 1-Programı çalıştırdığınızda Dosya Ekle butonu çıkacaktır.
+
 2- Dosya ekle butonuna basıp görselimiz neredeyse konumunu buluyoruz ve görseli ekliyoruz.
+
 3- Eklenen görsel üzerindeki kodu prgoram kontrol ederek geri bildirim veriyor. 
+
 
 
 
